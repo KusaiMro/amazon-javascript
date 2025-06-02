@@ -1,2 +1,0 @@
-I am in branch 1
-this is a change by another developer
